@@ -14,10 +14,6 @@
 ## script3.ps1
 - checks if archive folder exist and if not creates one
 - takes all folders and relocating them in to archive folder 
-- reads data from data.ps1 file 
-- selecting row by name of "hello"
-- creating folder with current timestamp
-- saving selected data to newly created folder in a file named data.csv
 - waits for 1.5 min and executing script4.ps1
 
 ## script4.ps1
